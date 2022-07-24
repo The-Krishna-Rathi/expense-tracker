@@ -1,10 +1,14 @@
 import ExpenseItem from "./ExpenseItem";
+import ExpenseFilter from "../ExpenseFilter/ExpenseFilter";
 import Card from "../UI/card";
 import "./Expenses.css";
 
 function Expenses(props) {
   return (
     <Card className="expenses">
+      <div>
+        <ExpenseFilter />
+      </div>
       <ExpenseItem
         date={props.expenses[0].date}
         title={props.expenses[0].title}

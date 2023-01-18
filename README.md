@@ -1,7 +1,16 @@
-# Getting Started with Create React App
+# Expense Tracker
+* It is an Expense Tracker Web application that can be used to manage and track your day to day expenses
+* It is an app built using React.js
+* It is responsive in nature (i.e. It can support multiple screen sizes)
+* We have the functionality to add our expenses with date.
+* We have a attractive visualizer which changes dynamically whenever we spend in a month, it shows us a limit upto which we should spend every month
 
-# Have a look at my project
-https://user-images.githubusercontent.com/74900144/212013592-bb5e51dd-4659-4dd0-bb8b-9604fe5af479.mp4
+
+
+### `Visuals`
+![screencapture-localhost-3000-2023-01-19-00_26_24](https://user-images.githubusercontent.com/74900144/213269949-f5facfff-2817-491a-b1c1-1a80f8405a20.png)
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
